@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me - yasantha1995@gmail.com 
 - 📜 Certifications:
-      AWS Certified Solutions Archiect Associate
+      AWS Certified Solutions Archiect Associate | 
       Cisco Certified Network Associate
       
 <!---
