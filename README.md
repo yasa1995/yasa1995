@@ -5,7 +5,7 @@
 - 📫 How to reach me - yasantha1995@gmail.com 
 - 📜 Certifications:
       AWS Certified Solutions Archiect Associate | 
-      Cisco Certified Network Associate
+      Cisco Certified Network Associate | Certified Kubernetes Administrator
   :unlock:   
 <!---
 yasa1995/yasa1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
