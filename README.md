@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yasantha Ayesh
 - 👀 I’m interested in DevOps Engineering
-- 🌱 I’m currently learning Kubernetes
+- 🌱 I’m currently learning Kubernetes/Docker/Terraform/GCP/AWS/Azure/dynatrace
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me - yasantha1995@gmail.com 
 - 📜 Certifications:
