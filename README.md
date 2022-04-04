@@ -6,7 +6,7 @@
 - 📜 Certifications:
       AWS Certified Solutions Archiect Associate | 
       Cisco Certified Network Associate | Certified Kubernetes Administrator
-  :unlock:   
+ 
 <!---
 yasa1995/yasa1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
